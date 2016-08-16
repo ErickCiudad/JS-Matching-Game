@@ -13,6 +13,8 @@ img {
 #leftSide {
   left: 0px;
   border-right: 3px solid black;
+  width: 500px;
+  height: 500px;
 
 }
 
